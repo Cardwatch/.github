@@ -1,4 +1,3 @@
-# .github
 
 # Cardwatch POS
 
@@ -21,20 +20,6 @@ Cardwatch is a robust, custom-built Point-of-Sale (POS) system designed specific
 - **Secure Transactions**: Utilizing the latest security protocols to ensure safe and secure transactions.
 - **Customizable Privilege Management**: Flexible options for user roles and permissions tailored to your specific requirements.
 - **Real-Time Notifications**: Stay updated with order statuses, promotional offers, and alerts through integrated notifications.
-
-## Getting Started
-
-To get started with Cardwatch, visit our [Getting Started Guide](https://cardwatchpos.com/getting-started) for detailed instructions and support.
-
-## Contributing to Cardwatch
-
-We welcome contributions from the community! Whether it's a bug report, a feature request, or an improvement suggestion, your input is valuable to us. To contribute, please:
-
-1. Fork this repository.
-2. Create a new branch (`git checkout -b feature/your-feature`).
-3. Make your changes and commit (`git commit -m 'Add new feature'`).
-4. Push to the branch (`git push origin feature/your-feature`).
-5. Create a new Pull Request.
 
 ## Community Guidelines
 
